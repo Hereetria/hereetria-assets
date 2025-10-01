@@ -54,7 +54,7 @@ You can use these assets directly via **raw GitHub URLs**.
 
 <br>
 
-## 📝 License
+## 📜 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
