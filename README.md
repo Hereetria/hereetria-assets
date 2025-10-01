@@ -1,4 +1,4 @@
-🧰 Hereetria Assets — Reusable SVG badges and icons for professional GitHub READMEs
+# 🧰 Hereetria Assets — Reusable SVG badges and icons for professional GitHub READMEs
 A public collection of **custom Shields.io-style SVG badges and logos**, used across my personal and showcase projects.  
 These assets are optimized for use in **GitHub READMEs**, portfolios, and other documentation.
 
