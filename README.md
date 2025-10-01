@@ -35,13 +35,14 @@ You can use these assets directly via **raw GitHub URLs**.
 ```html
 <p>
   <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/react.svg" height="28" />
+    <img src="https://raw.githubusercontent.com/Hereetria/hereetria-assets/main/badges/react.svg" height="32" />
   </a>
 </p>
 ```
 
 > 💡 Wrapping the `<img>` in an `<a>` tag makes the badge clickable,  
 > and placing it inside a `<p>` helps keep the layout consistent across Markdown renderers.
+> Prefer using **`height="32"`** for best visual balance across different badges.
 
 ---
 
