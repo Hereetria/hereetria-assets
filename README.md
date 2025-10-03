@@ -2,11 +2,6 @@
 
 <br>
 
-[![Report Bug](https://img.shields.io/badge/🐛_Report_Bug-red?style=for-the-badge)](../../issues/new?labels=bug)
-[![Request Feature](https://img.shields.io/badge/✨_Request_Feature-blue?style=for-the-badge)](../../issues/new?labels=enhancement)
-
-<br>
-
 ## 📌 Project Overview
 A public collection of **custom Shields.io-style SVG badges and logos**, used across my personal and showcase projects.  
 These assets are optimized for use in **GitHub READMEs**, portfolios, and other documentation.
